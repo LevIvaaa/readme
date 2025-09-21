@@ -35,3 +35,9 @@ ______
 [Text](https://github.com/)
 
 ![Image](/images/Kanae🦋.jpeg)
+
+item   | Value | Quantity
+:------|:-----:|--------:
+Computs|  1600 | 3
+Phone  |   12  | 2
+Pipe   |    1  | 1
