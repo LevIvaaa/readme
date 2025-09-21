@@ -36,8 +36,11 @@ ______
 
 ![Image](/images/Kanae🦋.jpeg)
 
+[![Image](/images/bedowalker.jpeg)](https://youtu.be/lOG0JemoTNo?si=JfqRmAVwdH1TbQ8D)
+
 item   | Value | Quantity
 :------|:-----:|--------:
 Computs|  1600 | 3
 Phone  |   12  | 2
+
 Pipe   |    1  | 1
